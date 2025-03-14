@@ -1,1 +1,1 @@
-GTFS static data from Delhi’s Open Transit Data (OTD) (https://otd.delhi.gov.in/data/static/) is used for building a transit data application to navigate the complex network of routes, trips, and stops.
+[GTFS static data from Delhi’s Open Transit Data (OTD)](https://otd.delhi.gov.in/data/static/) is used for building a transit data application to navigate the complex network of routes, trips, and stops.
